@@ -10,6 +10,7 @@ export class GptController {
   ortographyCheck(
     @Body() ortographyDto:OrtographyDto
   ){
+    console.log("ortography-check controller");
     return this.gptService.ortographyCheck(ortographyDto);
   }
 }
