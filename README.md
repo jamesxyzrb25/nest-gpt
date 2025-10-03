@@ -1,6 +1,4 @@
-Nest-GPT
-💡 Descripción del Proyecto
-Nest-GPT es una aplicación backend construida con NestJS que funciona como una pasarela de servicios de Inteligencia Artificial (IA). Abstrae y expone las capacidades de OpenAI a través de una serie de APIs HTTP REST bien definidas.
+Aplicación backend construida con NestJS que funciona como una pasarela de servicios de Inteligencia Artificial (IA). Abstrae y expone las capacidades de OpenAI a través de una serie de APIs HTTP REST bien definidas.
 
 El sistema está diseñado para:
 
